@@ -11,12 +11,12 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+#- type: twitter
+#  icon: "fa-brands fa-x-twitter"
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: 
+#- type: rss
+#  icon: "fas fa-rss"
+#  noblank: 
   
   
 # Uncomment and complete the url below to enable more contact options
